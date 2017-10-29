@@ -1,0 +1,14 @@
+
+body{
+	background-color:#00a5e4;
+}
+
+ #slider_image img{
+	 width:1500;
+	 border:1px solid grey;
+	 padding:15px;
+	 background-color:#eee;
+	 box-shadow:5px 5px 10px grey;
+	 margin-top:10px;
+	 margin-bottom:10px;
+ }
